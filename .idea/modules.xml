@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/CourseSelect/.idea/vim.iml" filepath="$USER_HOME$/Desktop/CourseSelect/.idea/vim.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xinjiang.iml" filepath="$PROJECT_DIR$/.idea/xinjiang.iml" />
     </modules>
   </component>
